@@ -1,4 +1,4 @@
-# أهلاً بيك 👋
+# Welcome 👋
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eslamzain-devops" target="blank">
@@ -14,15 +14,15 @@
 
 ---
 
-### 👨‍💻 مين أنا؟  
-- DevOps Engineer شغوف بالـ Automation و الـ Cloud  
-- بحب أشتغل بإيدي وأبني مشاريع حقيقية من الصفر  
-- مهتم بالـ Security في كل جزء من البنية التحتية  
-- بتعلم بسرعة وبحب أشرح وأسهل المعلومات للناس
+### 👨‍💻 Who am I?  
+- DevOps Engineer passionate about Automation & Cloud  
+- Love building real-world projects from scratch  
+- Interested in Security across all infrastructure layers  
+- Fast learner and enjoy simplifying complex concepts for others  
 
 ---
 
-### 🚀 الأدوات اللي بشتغل بيها:
+### 🚀 Tools I work with:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" />
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" />
@@ -36,23 +36,23 @@
 
 ---
 
-### 📊 شوية إحصائيات:
+### 📊 Some Stats:
 ![Eslam's github stats](https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-### 📌 حالياً شغال على:
-- مشروع عملي DevOps كامل على AWS مع CI/CD وInfra as Code  
-- توثيق كل خطوة على GitHub علشان تساعد غيري يتعلم
+### 📌 Currently working on:
+- A complete hands-on DevOps project on AWS with CI/CD & Infrastructure as Code  
+- Documenting every step on GitHub to help others learn  
 
 ---
 
-### 💬 مهتم تتكلم معايا؟
-- عندك مشروع DevOps وعايز مساعده؟ كلّمني  
-- بتحب تتعلم مع حد؟ نشتغل سوا  
+### 💬 Wanna connect?
+- Have a DevOps project and need support? Let’s talk  
+- Want to learn together? Let’s collaborate  
 
 ---
 
-⏳ **السنة ماشية:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.17% بتاريخ 14 يوليو 2025
+⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.17% as of July 14, 2025
