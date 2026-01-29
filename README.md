@@ -5,6 +5,18 @@
 <h1 align="center">Hi 👋, I'm Eslam Zain</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | Egypt 🇪🇬</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eslam-devops&style=flat-square&color=00E5FF" height="28"/>&nbsp;
+
+  <a href="https://drive.google.com/file/d/16h53xkq4ZeXjMpiAbsripZ0Aojc1gkBl/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" height="28"/>
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/eslam-zain-devops/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+</p>
+
 ---
 
 <p align="center">
