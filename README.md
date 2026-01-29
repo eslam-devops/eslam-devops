@@ -1,59 +1,92 @@
-# Welcome 👋
-#my portfolio : https://d2iro2wfvos48a.cloudfront.net/
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Eslam+Zain+%7C+DevOps+Engineer;Automate+Everything+⚙️;Build+Reliable+Cloud+Systems+☁️" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Eslam Zain</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | Egypt 🇪🇬</h3>
+
+---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/eslamzain-devops" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-</a>&nbsp;
-<a href="mailto:eslam.devops@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="30" />
-</a>&nbsp;
-<a href="https://github.com/eslam-devops" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" />
+<a href="https://www.linkedin.com/in/eslamzain-devops" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="mailto:eslam.devops@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="https://github.com/eslam-devops">
+  <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" height="30"/>
 </a>
 </p>
 
 ---
 
-### 👨‍💻 Who am I?  
-- DevOps Engineer passionate about Automation & Cloud  
-- Love building real-world projects from scratch  
-- Interested in Security across all infrastructure layers  
-- Fast learner and enjoy simplifying complex concepts for others  
+## 👨‍💻 About Me
+- 🔧 DevOps Engineer passionate about **Automation, Cloud & Infrastructure**
+- 🏗️ Love building **real-world systems from scratch** (not just tutorials)
+- 🔐 Interested in **Security** across all infrastructure layers
+- 📚 Fast learner who enjoys **simplifying complex concepts** and documenting them
+- 🤝 Believe in **sharing knowledge & learning by building**
 
 ---
 
-### 🚀 Tools I work with:
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" />
+## 🧰 Tech Stack & Tools
+
+### ☁️ Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+### ⚙️ DevOps & Automation
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</p>
+
+### 🔄 CI/CD & Version Control
+<p>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & OS
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-### 📊 Some Stats:
-![Eslam's github stats](https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=dark&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&theme=dark)](https://git.io/streak-stats)
+## 📌 What I’m Currently Working On
+- 🚀 End-to-end **DevOps project on AWS**
+- ⚙️ CI/CD pipelines with **Infrastructure as Code**
+- 📝 Documenting every step on GitHub to help others learn
+- 🔍 Improving **system reliability, scalability & security**
 
 ---
 
-### 📌 Currently working on:
-- A complete hands-on DevOps project on AWS with CI/CD & Infrastructure as Code  
-- Documenting every step on GitHub to help others learn  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
 
 ---
 
-### 💬 Wanna connect?
-- Have a DevOps project and need support? Let’s talk  
-- Want to learn together? Let’s collaborate  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=700&lines=Automate+%E2%80%A2+Scale+%E2%80%A2+Deliver;DevOps+is+a+Journey%2C+Not+a+Tool" />
+</p>
 
----
-
-⏳ **Year Progress:** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.17% as of July 14, 2025
+<p align="center">
+  <i>✨ Build systems that don't break when it matters ✨</i>
+</p>
