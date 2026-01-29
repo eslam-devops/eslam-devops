@@ -5,21 +5,22 @@
 <h1 align="center">Hi 👋, I'm Eslam Zain</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast | Egypt 🇪🇬</h3>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eslam-devops&style=flat-square&color=00E5FF" height="28"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=eslam-devops&label=Profile%20Views&style=for-the-badge&color=0ABDE3" />
 
   <a href="https://drive.google.com/file/d/16h53xkq4ZeXjMpiAbsripZ0Aojc1gkBl/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" height="28"/>
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Resume-Cloud%20DevOps-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+
   <a href="mailto:eslamzain863@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
-</a>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
   <a href="https://www.linkedin.com/in/eslam-zain-devops/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Eslam%20Zain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
 
 
 ---
