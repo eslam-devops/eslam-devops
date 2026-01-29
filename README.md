@@ -11,27 +11,16 @@
   <a href="https://drive.google.com/file/d/16h53xkq4ZeXjMpiAbsripZ0Aojc1gkBl/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" height="28"/>
   </a>&nbsp;
+  <a href="mailto:eslamzain863@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
+</a>
 
   <a href="https://www.linkedin.com/in/eslam-zain-devops/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
   </a>
 </p>
 
----
 
-<p align="center">
-<a href="https://www.linkedin.com/in/eslamzain-devops" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
-</a>
-&nbsp;
-<a href="mailto:eslam.devops@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="30"/>
-</a>
-&nbsp;
-<a href="https://github.com/eslam-devops">
-  <img src="https://img.shields.io/badge/GitHub-1E1E2E?style=flat-square&logo=github&logoColor=white" height="30"/>
-</a>
-</p>
 
 ---
 
