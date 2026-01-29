@@ -134,25 +134,18 @@
 - 🔍 Improving **system reliability, scalability & security**
 
 ---
-## 📊 GitHub Activity
-
+## 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=dark&count_private=true"
-    height="160"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=eslam-devops&theme=dark"
-    height="160"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=dark&hide=html,css"
-    height="150"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=tokyonight&hide=html,css"/>
 </p>
+
+
+ 
 
 
 
