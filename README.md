@@ -135,15 +135,27 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=eslam-devops&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=E5E7EB&bg_color=0D1117&count_private=true"
+    height="165"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=eslam-devops&hide_border=true&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=38BDF8&background=0D1117"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslam-devops&layout=compact&hide_border=true&title_color=38BDF8&text_color=E5E7EB&bg_color=0D1117&hide=html,css"
+    height="150"
+  />
 </p>
+
 
 ---
 
